@@ -2,11 +2,12 @@
 @import url("../fonts/fontawesome-5.2.0//");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400i,700");
 
+body{
+  padding: 20px;
+}
 
-<i class="fab fa-searchengin"></i>
 
-p {
-  color: green !important;
+/* p {
   font-size: 3em;
   font-family: 'Lato', sans-serif;
 }
